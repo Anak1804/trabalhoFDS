@@ -1,0 +1,8 @@
+body{background-color:rgb(252, 238, 222)}
+h1{color:darkorchid;text-align:center;}
+p{font-size: x-large;text-align: justify;}
+ul{line-height: 2;}
+img{border-radius:10px;width:800px;}
+table{border-spacing: 8px;border-style:dashed;background-color: rgb(187, 234, 130);border-color:magenta;font-family: Verdana, Geneva, Tahoma, sans-serif;font-style:italic;}
+a:hover{color: fuchsia;}
+button{color: blue;}
